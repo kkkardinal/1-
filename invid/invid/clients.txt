@@ -1,0 +1,10 @@
+Vasiliev Vasily Vasilievich, 9773672365, 12.10.2020, 12.10.2014,0,0
+Petrov Petr Petrovich, 9734672311, 22.01.2020, 01.11.2020,210,200
+Vasiliev Ilia Vasilievich, 9714679805, 05.06.2020, 01.12.2012,0,2000
+Petrov Petr Petrovich, 1111111111, 01.02.2020, 02.02.2020,0,0
+Bobryshev Svyatoslav Aleksandrovich, 9381173929, 10.12.2001, 11.12.2019,0,0
+Starodubtsev Vitaly Sergeevich, 9882595959, 13.04.2020, 12.12.2019,0,2000
+Grigoryan Marat Karenovich, 9896215028, 19.12.2009, 13.10.2010,0,1000
+Bobrysheva Tatiana Petrovna, 9281185869, 01.05.2020, 01.01.2019,0,3000
+Bobryshev Aleksandr Aleksandrovich, 9876543210, 03.08.2010, 08.03.2019,0,2010
+Valenok Evgeny Aleksandrovich, 1234567890, 01.09.2020, 02.09.2019,1000,0

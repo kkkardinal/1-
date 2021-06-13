@@ -1,0 +1,10 @@
+9714679805
+Services:
+	International tariff
+9882595959
+Services:
+	Communication with other mobile networks
+	Roaming
+9281185869
+Services:
+	Communication within the network

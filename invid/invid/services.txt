@@ -1,0 +1,10 @@
+Communication within the network, 1, 0.30, мин
+Messages, 2, 0.15, #
+Communication with other mobile networks, 3, 0.50, мин
+Roaming, 4, 10, мин
+International tariff, 5, 50, мин
+Home Internet, 6, 600, мес
+Internet outside the home, 7, 8000, день
+Help in setting up the home, 8, 300, #
+Services to remote psychiatrist, 9, 123, #
+Consultation with specialists, 10, 200, #
