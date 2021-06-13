@@ -1,0 +1,7 @@
+﻿  Lab3.cpp
+  MyClass.cpp
+  WinForm.cpp
+  Создание кода...
+C:\Users\Acer\source\repos\Lab3\MyClass.cpp(155): warning C4700: использована неинициализированная локальная переменная "countPoint"
+  Lab3.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab3.vcxproj -> C:\Users\Acer\source\repos\Lab3\Debug\Lab3.exe

@@ -1,0 +1,5 @@
+C:\Users\Acer\source\repos\Lab3\Debug\Lab3.vcxprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Lab3\Debug\Lab3.WinForm.resources
+C:\Users\Acer\source\repos\Lab3\Debug\Lab3.vcxproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Lab3\Debug\Lab3.exe
+C:\Users\Acer\source\repos\Lab3\Debug\Lab3.pdb
